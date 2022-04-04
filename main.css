@@ -2,7 +2,11 @@
   color-scheme: light dark;
   font-family: ui-monospace;
   font-size: 1.25em;
-  text-align: justify;
+}
+
+.wrapper {
+  max-width: 900px;
+  margin: auto;
 }
 
 @media (prefers-color-scheme: dark) {
