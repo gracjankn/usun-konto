@@ -19,10 +19,6 @@ ul {
     padding-left: 15px;
 }​
 
-h1, h2 {
-	text-align: center;
-}
-
 .footer {
   margin-top: 20px;
   margin-bottom: 30px;
@@ -37,4 +33,8 @@ h1, h2 {
 a {
   color: #ffcb00;
 }
+}
+
+h1, h2 {
+  text-align: center;
 }
