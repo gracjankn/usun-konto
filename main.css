@@ -5,10 +5,10 @@
 }
 
 .wrapper {
-  max-width: 900px;
-  margin: auto;
-  margin-left: 10px;
-  margin-right: 10px;
+  align-content: center;
+  flex-wrap: wrap;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 a {
