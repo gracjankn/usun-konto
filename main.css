@@ -11,6 +11,13 @@
   padding-right: 10px;
 }
 
+.crossed-icon {
+  height: 128px;
+  width: auto;
+  margin: auto;
+  display: block;
+}
+
 a {
 	color: #D22F2F;
 }
@@ -28,6 +35,10 @@ ul {
   margin-bottom: 30px;
 }
 
+.github {
+  padding-right: 1rem;
+}
+
 @media (prefers-color-scheme: dark) {
 :root {
   background: #0c0c0c;
@@ -36,6 +47,10 @@ ul {
 
 a {
   color: #ffcb00;
+}
+
+.github {
+  fill: white;
 }
 }
 
